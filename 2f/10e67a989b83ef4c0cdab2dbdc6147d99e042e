@@ -1,0 +1,116 @@
+projects/code_review_agent/requirements.txt
+  h_937d28ebf450d8 1-7
+projects/call_ollama.py
+  h_937d28ebf450d8 1-17
+projects/resume_assistant/requirements.txt
+  h_937d28ebf450d8 1-13
+datasets/sample_repo/README.md
+  s_20b5925fb636cf::t_0dde26a8b14d86 1-25
+datasets/sample_repo/analytics.py
+  s_20b5925fb636cf::t_025a8aab2fe2f3 1-31
+datasets/sample_repo/app.py
+  s_20b5925fb636cf::t_707bf6c387197d 1-26
+datasets/sample_repo/config.py
+  s_20b5925fb636cf::t_0d514cc8018602 1-14
+datasets/sample_repo/data_loader.py
+  s_20b5925fb636cf::t_7cefa3fff19679 1-20
+datasets/sample_repo/requirements.txt
+  s_20b5925fb636cf::t_a24683e26c684f 1-2
+docs/TROUBLESHOOTING.md
+  s_20b5925fb636cf::t_0414beb170530f 1-187
+projects/resume_assistant/data/sample_resume.pdf
+  s_20b5925fb636cf::t_d414bb7d51dfbe 1-87
+.gitignore
+  h_937d28ebf450d8 1-8
+README.md
+  h_937d28ebf450d8 1-74
+docs/INSTALLATION_GUIDE.md
+  h_937d28ebf450d8 1-250
+projects/code_review_agent/.env.example
+  h_937d28ebf450d8 1-3
+projects/code_review_agent/.gitignore
+  h_937d28ebf450d8 1-6
+projects/code_review_agent/Dockerfile
+  h_937d28ebf450d8 1-18
+projects/code_review_agent/README.md
+  h_937d28ebf450d8 1-131
+projects/code_review_agent/docker-compose.yml
+  h_937d28ebf450d8 1-12
+projects/code_review_agent/main.py
+  h_937d28ebf450d8 1-43
+projects/code_review_agent/src/agents.py
+  h_937d28ebf450d8 1-64
+projects/code_review_agent/src/config.py
+  h_937d28ebf450d8 1-25
+projects/code_review_agent/src/github_api.py
+  h_937d28ebf450d8 1-65
+projects/code_review_agent/src/graph.py
+  h_937d28ebf450d8 1-70
+projects/code_review_agent/src/llm.py
+  h_937d28ebf450d8 1-70
+projects/code_review_agent/src/report.py
+  h_937d28ebf450d8 1-68
+projects/code_review_agent/src/rubrics.py
+  h_937d28ebf450d8 1-46
+projects/code_review_agent/src/tools.py
+  h_937d28ebf450d8 1-75
+projects/code_review_agent/tests/test_tools.py
+  h_937d28ebf450d8 1-46
+projects/resume_assistant/.env.example
+  h_937d28ebf450d8 1-3
+projects/resume_assistant/.gitignore
+  h_937d28ebf450d8 1-5
+projects/resume_assistant/Dockerfile
+  h_937d28ebf450d8 1-12
+projects/resume_assistant/README.md
+  h_937d28ebf450d8 1-137
+projects/resume_assistant/data/expected_output.json
+  h_937d28ebf450d8 1-35
+projects/resume_assistant/data/job_description.txt
+  h_937d28ebf450d8 1-34
+projects/resume_assistant/data/make_pdf.py
+  h_937d28ebf450d8 1-84
+projects/resume_assistant/data/sample_resume.txt
+  h_937d28ebf450d8 1-49
+projects/resume_assistant/docker-compose.yml
+  h_937d28ebf450d8 1-9
+projects/resume_assistant/src/api.py
+  h_937d28ebf450d8 1-42
+projects/resume_assistant/src/app.py
+  h_937d28ebf450d8 1-115
+projects/resume_assistant/src/config.py
+  h_937d28ebf450d8 1-25
+projects/resume_assistant/src/embeddings.py
+  h_937d28ebf450d8 1-79
+projects/resume_assistant/src/generate.py
+  h_937d28ebf450d8 1-80
+projects/resume_assistant/src/ingest.py
+  h_937d28ebf450d8 1-50
+projects/resume_assistant/src/llm.py
+  h_937d28ebf450d8 1-111
+projects/resume_assistant/src/rag.py
+  h_937d28ebf450d8 1-111
+projects/resume_assistant/tests/test_ingest.py
+  h_937d28ebf450d8 1-31
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.20",
+  "base_commit_sha": "2f10e67a989b83ef4c0cdab2dbdc6147d99e042e",
+  "prompts": {},
+  "humans": {
+    "h_937d28ebf450d8": {
+      "author": "Prabin Silwal <prabin@summed.ai>"
+    }
+  },
+  "sessions": {
+    "s_20b5925fb636cf": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "751da835-43a7-41cb-b255-238a7526d4e1",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Prabin Silwal <prabin@summed.ai>"
+    }
+  }
+}
