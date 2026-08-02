@@ -1,0 +1,34 @@
+Junior AI/ML Engineer
+
+About the Role
+We are hiring a Junior AI/ML Engineer to join our applied machine learning
+team. You will help build, evaluate, and deploy machine learning models that
+power real product features. This is an entry-level role ideal for recent
+graduates who love turning data into working systems.
+
+Responsibilities
+- Build and evaluate machine learning models (classification, NLP, recommender
+  systems) using Python.
+- Develop data pipelines for cleaning, feature engineering, and preprocessing.
+- Deploy models as REST APIs and containerized services.
+- Collaborate with engineers and product managers in an Agile environment.
+- Write clean, well-tested, maintainable code.
+
+Required Qualifications
+- Bachelor's degree in Computer Science, Data Science, or a related field.
+- Strong Python programming skills.
+- Experience with ML libraries such as scikit-learn, PyTorch, or TensorFlow.
+- Understanding of core ML concepts (train/test splits, overfitting, metrics).
+- Familiarity with Git and collaborative development.
+
+Preferred Qualifications
+- Experience with Docker and cloud platforms (AWS or GCP).
+- Exposure to LLMs, embeddings, or retrieval-augmented generation (RAG).
+- Experience building REST APIs (Flask or FastAPI).
+- Knowledge of SQL and data visualization.
+- Familiarity with MLOps practices and CI/CD.
+
+What We Offer
+- Mentorship from senior ML engineers.
+- Real ownership of production ML features.
+- A collaborative, learning-focused culture.

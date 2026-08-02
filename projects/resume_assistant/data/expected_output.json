@@ -1,0 +1,35 @@
+{
+  "ats_score": 88,
+  "matched_skills": [
+    "Python",
+    "PyTorch",
+    "scikit-learn",
+    "pandas",
+    "NumPy",
+    "REST APIs",
+    "Flask",
+    "Docker",
+    "Git",
+    "AWS",
+    "SQL",
+    "Machine learning / NLP model building",
+    "Data preprocessing and feature engineering",
+    "Retrieval-augmented generation (RAG)",
+    "Agile collaboration",
+    "Unit testing (pytest)"
+  ],
+  "missing_skills": [
+    "TensorFlow",
+    "FastAPI (production experience)",
+    "MLOps practices and CI/CD",
+    "Recommender systems"
+  ],
+  "bullet_suggestions": [
+    "Designed and deployed a PyTorch text-classification pipeline that lifted ticket-routing accuracy from 78% to 91% across a 40k-example dataset.",
+    "Containerized ML model-serving REST APIs with Flask and Docker, enabling reproducible internal analytics workflows.",
+    "Engineered pandas-based data-cleaning and feature pipelines that reduced preprocessing time by 60%.",
+    "Built a local RAG system with Ollama, ChromaDB, and embeddings to score resumes against job descriptions.",
+    "Raised backend test coverage to 85% using pytest within a 5-person Agile team."
+  ],
+  "summary": "Strong entry-level match: the candidate demonstrates solid Python, PyTorch, and scikit-learn skills, hands-on model deployment with Flask/Docker, and direct RAG/embeddings experience that aligns closely with the preferred qualifications. Adding TensorFlow exposure and explicit MLOps/CI-CD experience would make the profile even stronger."
+}

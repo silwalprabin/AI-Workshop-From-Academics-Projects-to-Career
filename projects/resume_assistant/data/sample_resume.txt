@@ -1,0 +1,49 @@
+ALEX MORGAN
+San Jose, CA | alex.morgan@example.com | (555) 123-4567
+github.com/alexmorgan | linkedin.com/in/alexmorgan
+
+EDUCATION
+B.S. in Computer Science, San Jose State University
+Expected May 2026 | GPA: 3.7/4.0
+Relevant Coursework: Data Structures & Algorithms, Machine Learning,
+Databases, Operating Systems, Linear Algebra, Probability & Statistics.
+
+TECHNICAL SKILLS
+Languages: Python, Java, JavaScript, SQL, C++
+ML / Data: NumPy, pandas, scikit-learn, PyTorch, Matplotlib
+Web / Tools: Flask, React, Git, Docker, Linux, REST APIs
+Cloud: AWS (S3, EC2), basic GCP
+
+EXPERIENCE
+Machine Learning Intern — BrightData Labs (Summer 2025)
+- Built a text-classification pipeline in PyTorch that improved support-ticket
+  routing accuracy from 78% to 91% on a 40k-example dataset.
+- Wrote data-cleaning and feature-engineering scripts in pandas, cutting
+  preprocessing time by 60%.
+- Deployed a model-serving REST API with Flask and Docker for the internal
+  analytics team.
+
+Software Engineering Intern — CampusTech (Summer 2024)
+- Developed React components for a student-services dashboard used by 3,000+
+  students.
+- Wrote unit tests with pytest and Jest, raising backend coverage to 85%.
+- Collaborated in a 5-person Agile team using Git and code reviews.
+
+PROJECTS
+Resume Matcher (Personal Project)
+- Built a local RAG application with Ollama, ChromaDB, and Streamlit that
+  scores resumes against job descriptions.
+- Implemented embedding-based retrieval and prompt engineering for structured
+  JSON output.
+
+Handwritten Digit Recognizer
+- Trained a convolutional neural network on MNIST achieving 99.1% test
+  accuracy using PyTorch.
+
+LEADERSHIP
+- Vice President, University AI/ML Club (2024-2025): organized 6 workshops on
+  deep learning and MLOps for 120+ members.
+
+CERTIFICATIONS
+- DeepLearning.AI Machine Learning Specialization
+- AWS Certified Cloud Practitioner

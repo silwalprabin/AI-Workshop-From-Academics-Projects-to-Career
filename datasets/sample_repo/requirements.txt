@@ -1,0 +1,2 @@
+# This sample project uses only the Python standard library.
+# (Intentionally has no tests and no real dependencies.)
